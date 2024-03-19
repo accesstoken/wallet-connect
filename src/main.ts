@@ -1,4 +1,6 @@
 import { createWeb3Modal, defaultConfig } from '@web3modal/ethers'
+import "@stakekit/widget/bundle/css";
+import { renderSKWidget, lightTheme } from "@stakekit/widget/bundle";
 
 // 1. Get projectId at https://cloud.walletconnect.com
 const projectId = 'YOUR_PROJECT_ID'

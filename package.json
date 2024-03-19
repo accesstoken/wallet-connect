@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@stakekit/widget": "^0.0.117",
     "@web3modal/ethers": "^4.1.0",
     "ethers": "^6.11.1",
     "ts-node": "^10.9.2",

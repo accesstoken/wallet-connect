@@ -62,3 +62,9 @@ http-server
 ```
 
 Now, you can open http://127.0.0.1:8080 in your browser to view the project.
+
+## Other Imports:
+### Stakeit
+```bash
+npm install --save @stakekit/widget  
+```
